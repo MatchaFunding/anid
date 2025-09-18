@@ -1,0 +1,6 @@
+--2025-09-17 23:11:46--  https://anid.cl/wp-content/uploads/2022/06/thisisengineering-raeng-8yS04veb1TQ-unsplash-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.71, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+GnuTLS: Error in the push function.
+Unable to establish SSL connection.

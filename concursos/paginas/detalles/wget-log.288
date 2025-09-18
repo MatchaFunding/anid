@@ -1,0 +1,16 @@
+--2025-09-17 23:12:54--  https://anid.cl/wp-content/uploads/2022/04/pedro-henrique-santos-jSjsgkZtJGE-unsplash-2048x1151.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250079 (244K) [image/jpeg]
+Saving to: ‘pedro-henrique-santos-jSjsgkZtJGE-unsplash-2048x1151.jpg’
+
+     0K .......... .......... .......... .......... .......... 20% 1.17M 0s
+    50K .......... .......... .......... .......... .......... 40% 14.7M 0s
+   100K .......... .......... .......... .......... .......... 61%  856K 0s
+   150K .......... .......... .......... .......... .......... 81%  947K 0s
+   200K .......... .......... .......... .......... ....      100% 7.00M=0.2s
+
+2025-09-17 23:31:21 (1.47 MB/s) - ‘pedro-henrique-santos-jSjsgkZtJGE-unsplash-2048x1151.jpg’ saved [250079/250079]
+

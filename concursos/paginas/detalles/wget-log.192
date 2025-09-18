@@ -1,0 +1,23 @@
+--2025-09-17 23:15:49--  https://anid.cl/wp-content/uploads/2022/04/nils-stahl-neUbjUnjXNk-unsplash-scaled.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 488470 (477K) [image/jpeg]
+Saving to: ‘nils-stahl-neUbjUnjXNk-unsplash-scaled.jpg’
+
+     0K .......... .......... .......... .......... .......... 10% 3.74M 0s
+    50K .......... .......... .......... .....                 18% 79.9M=0.01s
+
+2025-09-17 23:40:16 (6.21 MB/s) - Read error at byte 87973/488470 (Error in the pull function.). Retrying.
+
+--2025-09-17 23:40:17--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/nils-stahl-neUbjUnjXNk-unsplash-scaled.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.

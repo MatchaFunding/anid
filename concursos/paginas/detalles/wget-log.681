@@ -1,0 +1,7 @@
+--2025-09-17 23:12:10--  https://anid.cl/wp-content/uploads/2022/04/patrick-fore-3ScLeu2-jN8-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.

@@ -1,0 +1,18 @@
+--2025-09-17 23:10:41--  https://anid.cl/wp-content/uploads/2022/04/magister-bch-2020_op-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.71, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:31:22--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/magister-bch-2020_op-300x200.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15952 (16K) [image/jpeg]
+Saving to: ‘magister-bch-2020_op-300x200.jpg’
+
+     0K .......... .....                                      100% 62.5M=0s
+
+2025-09-17 23:31:23 (62.5 MB/s) - ‘magister-bch-2020_op-300x200.jpg’ saved [15952/15952]
+

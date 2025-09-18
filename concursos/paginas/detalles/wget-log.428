@@ -1,0 +1,32 @@
+--2025-09-17 23:09:47--  https://anid.cl/concursos/doctorado-becas-chile-anid-daad-2022
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/doctorado-becas-chile-anid-daad-2022/ [following]
+--2025-09-17 23:10:42--  https://anid.cl/concursos/doctorado-becas-chile-anid-daad-2022/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘doctorado-becas-chile-anid-daad-2022’
+
+     0K .......... .......... .......... .......... .......... 79.3K
+    50K .......... .......... .                                67.9M=0.6s
+
+2025-09-17 23:21:46 (114 KB/s) - Read error at byte 73716 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:48--  (try: 2)  https://anid.cl/concursos/doctorado-becas-chile-anid-daad-2022/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘doctorado-becas-chile-anid-daad-2022’
+
+     0K .......... .......... .......... .......... ..........  430 
+    50K .......... .......... .......... .......... .......... 1.20K
+   100K .......... .......... .......... .......... ..........  207K
+   150K .......... .......... .......... .......... .......... 1.59M
+   200K .......... .......... .......... .......... .......... 1.77M
+   250K .......... .......... ...                              1.75M=2m41s
+
+2025-09-17 23:25:33 (1.70 KB/s) - ‘doctorado-becas-chile-anid-daad-2022’ saved [279721]
+

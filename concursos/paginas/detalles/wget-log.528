@@ -1,0 +1,19 @@
+--2025-09-17 23:16:25--  https://anid.cl/wp-content/uploads/2022/07/jeremy-bezanger-2eYETTRF6GM-unsplash-1024x683.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.71, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2025-09-17 23:31:19--  (try: 2)  https://anid.cl/wp-content/uploads/2022/07/jeremy-bezanger-2eYETTRF6GM-unsplash-1024x683.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66182 (65K) [image/jpeg]
+Saving to: ‘jeremy-bezanger-2eYETTRF6GM-unsplash-1024x683.jpg’
+
+     0K .......... .......... .......... .......... .......... 77%  328K 0s
+    50K .......... ....                                       100% 5.21M=0.2s
+
+2025-09-17 23:31:20 (417 KB/s) - ‘jeremy-bezanger-2eYETTRF6GM-unsplash-1024x683.jpg’ saved [66182/66182]
+

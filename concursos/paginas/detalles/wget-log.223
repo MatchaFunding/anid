@@ -1,0 +1,27 @@
+--2025-09-17 23:09:35--  https://anid.cl/concursos/beca-de-magister-nacional-ano-academico-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2025-09-17 23:10:38--  (try: 2)  https://anid.cl/concursos/beca-de-magister-nacional-ano-academico-2025
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/beca-de-magister-nacional-ano-academico-2025/ [following]
+--2025-09-17 23:11:21--  https://anid.cl/concursos/beca-de-magister-nacional-ano-academico-2025/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘beca-de-magister-nacional-ano-academico-2025’
+
+     0K .......... .......... .......... .......... ..........  148K
+    50K .......... .......... .......... .......... ..........  359K
+   100K .......... .......... .......... .......... ..........  376K
+   150K .......... .......... .......... .......... ..........  551 
+   200K .......... .......... .......... .......... ..........  120K
+   250K .......... .......... .......... .......... .......... 1014K
+   300K .......                                                1.53K=99s
+
+2025-09-17 23:21:44 (3.11 KB/s) - ‘beca-de-magister-nacional-ano-academico-2025’ saved [315117]
+

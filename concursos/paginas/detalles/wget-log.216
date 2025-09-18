@@ -1,0 +1,27 @@
+--2025-09-17 23:09:52--  https://anid.cl/concursos/proyectos-de-investigacion-conjunta-anid-bmbf-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:21:40--  (try: 2)  https://anid.cl/concursos/proyectos-de-investigacion-conjunta-anid-bmbf-2025
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/proyectos-de-investigacion-conjunta-anid-bmbf-2025/ [following]
+--2025-09-17 23:21:54--  https://anid.cl/concursos/proyectos-de-investigacion-conjunta-anid-bmbf-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘proyectos-de-investigacion-conjunta-anid-bmbf-2025’
+
+     0K .......... .......... .......... .......... .......... 60.8M
+    50K .......... .......... .......... .......... .......... 6.79M
+   100K .......... .......... .......... .......... .......... 10.9M
+   150K .......... .......... .......... .......... .......... 11.4M
+   200K .......... .......... .......... .......... .......... 1.09M
+   250K .......... .......... ......                           57.3M=0.06s
+
+2025-09-17 23:21:55 (4.36 MB/s) - ‘proyectos-de-investigacion-conjunta-anid-bmbf-2025’ saved [283475]
+

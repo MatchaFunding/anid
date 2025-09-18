@@ -1,0 +1,9 @@
+--2025-09-17 23:10:08--  https://anid.cl/wp-content/uploads/2022/04/gabriel-sollmann-Y7d265_7i08-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2025-09-17 23:27:23--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/gabriel-sollmann-Y7d265_7i08-unsplash-1536x1024.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... 

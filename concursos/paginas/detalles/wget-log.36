@@ -1,0 +1,15 @@
+--2025-09-17 23:12:31--  https://anid.cl/wp-content/uploads/2022/06/victoria-heath-b7CRDcwfNFU-unsplash-1024x683.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165740 (162K) [image/jpeg]
+Saving to: ‘victoria-heath-b7CRDcwfNFU-unsplash-1024x683.jpg’
+
+     0K .......... .......... .......... .......... .......... 30%  463  4m8s
+    50K .......... .......... .......... .......... .......... 61% 98.4K 69s
+   100K .......... .......... .......... .......... .......... 92% 1.72M 9s
+   150K .......... .                                          100% 45.4M=1m51s
+
+2025-09-17 23:25:33 (1.46 KB/s) - ‘victoria-heath-b7CRDcwfNFU-unsplash-1024x683.jpg’ saved [165740/165740]
+

@@ -1,0 +1,14 @@
+--2025-09-17 23:10:04--  https://anid.cl/wp-content/uploads/2022/04/gabriel-sollmann-Y7d265_7i08-unsplash-1024x683.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147113 (144K) [image/jpeg]
+Saving to: ‘gabriel-sollmann-Y7d265_7i08-unsplash-1024x683.jpg’
+
+     0K .......... .......... .......... .......... .......... 34% 35.7M 0s
+    50K .......... .......... .......... .......... .......... 69% 1.80M 0s
+   100K .......... .......... .......... .......... ...       100% 1.02M=0.07s
+
+2025-09-17 23:21:54 (1.99 MB/s) - ‘gabriel-sollmann-Y7d265_7i08-unsplash-1024x683.jpg’ saved [147113/147113]
+

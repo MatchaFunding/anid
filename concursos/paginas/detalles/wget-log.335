@@ -1,0 +1,32 @@
+--2025-09-17 23:09:34--  https://anid.cl/concursos/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:17:37--  (try: 2)  https://anid.cl/concursos/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:20:26--  (try: 3)  https://anid.cl/concursos/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025/ [following]
+--2025-09-17 23:21:54--  https://anid.cl/concursos/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025’
+
+     0K .......... .......... .......... .......... .......... 1.93M
+    50K .......... .......... .......... .......... .......... 2.10M
+   100K .......... .......... .......... .......... ..........  473K
+   150K .......... .......... .......... .......... .......... 13.2M
+   200K .......... .......... .......... .......... .......... 2.26M
+   250K .......... .......... .......... .......... .......... 2.15M
+   300K ...                                                    19.9M=0.2s
+
+2025-09-17 23:21:55 (1.47 MB/s) - ‘beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-convocatoria-2025’ saved [311268]
+

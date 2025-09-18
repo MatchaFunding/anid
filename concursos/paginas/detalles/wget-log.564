@@ -1,0 +1,22 @@
+--2025-09-17 23:12:26--  https://anid.cl/wp-content/uploads/2022/06/jeswin-thomas-e9AWyenYxws-unsplash-1024x683.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72009 (70K) [image/jpeg]
+Saving to: ‘jeswin-thomas-e9AWyenYxws-unsplash-1024x683.jpg’
+
+     0K .......... .......... .......... .                     44% 53.9M=0.001s
+
+2025-09-17 23:40:23 (53.9 MB/s) - Read error at byte 31974/72009 (Error in the pull function.). Retrying.
+
+--2025-09-17 23:40:24--  (try: 2)  https://anid.cl/wp-content/uploads/2022/06/jeswin-thomas-e9AWyenYxws-unsplash-1024x683.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.

@@ -1,0 +1,13 @@
+--2025-09-17 23:15:49--  https://anid.cl/wp-content/uploads/2022/07/cdc-rHCNMH9Vlmw-unsplash-768x576.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.55, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54489 (53K) [image/jpeg]
+Saving to: ‘cdc-rHCNMH9Vlmw-unsplash-768x576.jpg’
+
+     0K .......... .......... .......... .......... .......... 93% 1.69M 0s
+    50K ...                                                   100% 5.98T=0.03s
+
+2025-09-17 23:31:21 (1.80 MB/s) - ‘cdc-rHCNMH9Vlmw-unsplash-768x576.jpg’ saved [54489/54489]
+

@@ -1,0 +1,10 @@
+--2025-09-17 23:09:49--  https://anid.cl/concursos/ingenieria-2030-tercera-etapa
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/ingenieria-2030-tercera-etapa/ [following]
+--2025-09-17 23:17:31--  https://anid.cl/concursos/ingenieria-2030-tercera-etapa/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]

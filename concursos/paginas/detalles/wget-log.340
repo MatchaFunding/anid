@@ -1,0 +1,27 @@
+--2025-09-17 23:09:47--  https://anid.cl/concursos/doctorado-becas-chile-2024
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.77, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+WARNING: Could not save SSL session data for socket 3
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:17:37--  (try: 2)  https://anid.cl/concursos/doctorado-becas-chile-2024
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/doctorado-becas-chile-2024/ [following]
+--2025-09-17 23:19:12--  https://anid.cl/concursos/doctorado-becas-chile-2024/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘doctorado-becas-chile-2024’
+
+     0K .......... .......... .......... .......... ..........  720 
+    50K .......... .......... .......... .......... ..........  268K
+   100K .......... .......... .......... .......... ..........  265K
+   150K .......... .......... .......... .......... ..........  775K
+   200K .......... .......... .......... .......... .......... 1.12M
+   250K .......... .......... .......... .......... ........    280K=72s
+
+2025-09-17 23:21:39 (4.16 KB/s) - ‘doctorado-becas-chile-2024’ saved [305442]
+

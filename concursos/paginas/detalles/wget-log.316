@@ -1,0 +1,14 @@
+--2025-09-17 23:15:48--  https://anid.cl/wp-content/uploads/2022/04/maximalfocus-0n4jhVGS4zs-unsplash-1024x683.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116345 (114K) [image/jpeg]
+Saving to: ‘maximalfocus-0n4jhVGS4zs-unsplash-1024x683.jpg’
+
+     0K .......... .......... .......... .......... .......... 44% 1.02M 0s
+    50K .......... .......... .......... .......... .......... 88% 2.34M 0s
+   100K .......... ...                                        100% 74.4M=0.07s
+
+2025-09-17 23:31:24 (1.61 MB/s) - ‘maximalfocus-0n4jhVGS4zs-unsplash-1024x683.jpg’ saved [116345/116345]
+

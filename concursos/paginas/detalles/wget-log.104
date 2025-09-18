@@ -1,0 +1,18 @@
+--2025-09-17 23:09:37--  https://anid.cl/concursos/concurso-de-fomento-a-la-vinculacion-internacional-para-instituciones-de-investigacion-convocatoria-2023
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:17:08--  (try: 2)  https://anid.cl/concursos/concurso-de-fomento-a-la-vinculacion-internacional-para-instituciones-de-investigacion-convocatoria-2023
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-de-fomento-a-la-vinculacion-internacional-para-instituciones-de-investigacion-convocatoria-2023/ [following]
+--2025-09-17 23:19:12--  https://anid.cl/concursos/concurso-de-fomento-a-la-vinculacion-internacional-para-instituciones-de-investigacion-convocatoria-2023/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-de-fomento-a-la-vinculacion-internacional-para-instituciones-de-investigacion-convocatoria-2023’
+
+     0K .......

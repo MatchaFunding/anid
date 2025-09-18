@@ -1,0 +1,21 @@
+--2025-09-17 23:09:37--  https://anid.cl/concursos/concurso-de-nucleos-en-ciencias-naturales-y-exactas-2019
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-de-nucleos-en-ciencias-naturales-y-exactas-2019/ [following]
+--2025-09-17 23:17:13--  https://anid.cl/concursos/concurso-de-nucleos-en-ciencias-naturales-y-exactas-2019/
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-de-nucleos-en-ciencias-naturales-y-exactas-2019’
+
+     0K .......... .......... .......... .......... ..........  462 
+    50K .......... .......... .......... .......... ..........  223K
+   100K .......... .......... .......... .......... .......... 4.03M
+   150K .......... .......... .......... .......... .......... 2.08M
+   200K .......... .......... .......... .......... .......... 4.07M
+   250K .......... .......... .                                2.58M=1m51s
+
+2025-09-17 23:25:33 (2.45 KB/s) - ‘concurso-de-nucleos-en-ciencias-naturales-y-exactas-2019’ saved [278448]
+

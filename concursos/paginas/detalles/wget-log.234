@@ -1,0 +1,18 @@
+--2025-09-17 23:10:07--  https://anid.cl/wp-content/uploads/2022/04/joe-yates-aqjMYeMgAAQ-unsplash-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.71, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:21:45--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/joe-yates-aqjMYeMgAAQ-unsplash-300x200.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9924 (9.7K) [image/jpeg]
+Saving to: ‘joe-yates-aqjMYeMgAAQ-unsplash-300x200.jpg’
+
+     0K .........                                             100%  147M=0s
+
+2025-09-17 23:21:54 (147 MB/s) - ‘joe-yates-aqjMYeMgAAQ-unsplash-300x200.jpg’ saved [9924/9924]
+

@@ -1,0 +1,6 @@
+--2025-09-17 23:10:09--  https://anid.cl/wp-content/uploads/2022/04/k8-qX1d8KT18kk-unsplash-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

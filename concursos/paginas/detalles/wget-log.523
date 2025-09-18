@@ -1,0 +1,19 @@
+--2025-09-17 23:12:11--  https://anid.cl/wp-content/uploads/2022/06/jeswin-thomas-e9AWyenYxws-unsplash-scaled.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 400266 (391K) [image/jpeg]
+Saving to: ‘jeswin-thomas-e9AWyenYxws-unsplash-scaled.jpg’
+
+     0K .......... .......... .......... .......... .......... 12%  304K 1s
+    50K .......... .......... .......... .......... .......... 25%  333K 1s
+   100K .......... .......... .......... .......... .......... 38% 64.9M 1s
+   150K .......... .......... .......... .......... .......... 51%  914K 0s
+   200K .......... .......... .......... .......... .......... 63%  561K 0s
+   250K .......... .......... .......... .......... .......... 76% 1.03M 0s
+   300K .......... .......... .......... .......... .......... 89% 1.57M 0s
+   350K .......... .......... .......... ..........           100% 10.9M=0.5s
+
+2025-09-17 23:31:23 (722 KB/s) - ‘jeswin-thomas-e9AWyenYxws-unsplash-scaled.jpg’ saved [400266/400266]
+

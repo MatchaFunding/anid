@@ -1,0 +1,20 @@
+--2025-09-17 23:09:34--  https://anid.cl/concursos/10-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-2020
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/10-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-2020/ [following]
+--2025-09-17 23:10:35--  https://anid.cl/concursos/10-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-2020/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘10-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-2020’
+
+      10-concurso-d     [    <=>             ]  64.08K   167 B/s               10-concurso-de-valo     [     <=>            ] 119.99K   313 B/s    in 6m 33s  
+
+2025-09-17 23:24:17 (313 B/s) - Read error at byte 122866 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:32--  (try: 2)  https://anid.cl/concursos/10-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-2020/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

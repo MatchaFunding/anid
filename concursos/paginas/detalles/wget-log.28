@@ -1,0 +1,20 @@
+--2025-09-17 23:09:51--  https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-conicyt-concurso-de-proyectos-de-intercambio-convocatoria-2019
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.71, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-conicyt-concurso-de-proyectos-de-intercambio-convocatoria-2019/ [following]
+--2025-09-17 23:10:35--  https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-conicyt-concurso-de-proyectos-de-intercambio-convocatoria-2019/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘programa-de-cooperacion-cientifica-ecos-conicyt-concurso-de-proyectos-de-intercambio-convocatoria-2019’
+
+programa-de-coopera     [        <=>         ] 223.97K   586 B/s    in 6m 31s  
+
+2025-09-17 23:23:18 (586 B/s) - Read error at byte 229346 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:06--  (try: 2)  https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-conicyt-concurso-de-proyectos-de-intercambio-convocatoria-2019/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

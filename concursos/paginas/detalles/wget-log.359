@@ -1,0 +1,18 @@
+--2025-09-17 23:11:46--  https://anid.cl/wp-content/uploads/2022/06/sk-jeEedhJXoR0-unsplash-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:31:07--  (try: 2)  https://anid.cl/wp-content/uploads/2022/06/sk-jeEedhJXoR0-unsplash-300x200.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11873 (12K) [image/jpeg]
+Saving to: ‘sk-jeEedhJXoR0-unsplash-300x200.jpg’
+
+     0K .......... .                                          100% 49.1M=0s
+
+2025-09-17 23:31:21 (49.1 MB/s) - ‘sk-jeEedhJXoR0-unsplash-300x200.jpg’ saved [11873/11873]
+

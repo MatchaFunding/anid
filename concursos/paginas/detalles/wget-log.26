@@ -1,0 +1,11 @@
+--2025-09-17 23:09:48--  https://anid.cl/concursos/fondo-gemini-conicyt-programa-nacional-para-el-desarollo-de-la-astronomia-y-ciencias-afines-convocatoria-2019
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 3
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:17:37--  (try: 2)  https://anid.cl/concursos/fondo-gemini-conicyt-programa-nacional-para-el-desarollo-de-la-astronomia-y-ciencias-afines-convocatoria-2019
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 3

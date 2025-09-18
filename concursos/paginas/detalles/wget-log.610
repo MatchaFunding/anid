@@ -1,0 +1,10 @@
+--2025-09-17 23:10:00--  https://anid.cl/wp-content/uploads/2022/04/bryan-goff-RF4p4rTM-2s-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+WARNING: Could not save SSL session data for socket 3
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:27:31--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/bryan-goff-RF4p4rTM-2s-unsplash-1536x1024.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.

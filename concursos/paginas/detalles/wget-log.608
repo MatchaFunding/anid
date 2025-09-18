@@ -1,0 +1,14 @@
+--2025-09-17 23:09:51--  https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-anid-2024
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-anid-2024/ [following]
+--2025-09-17 23:10:42--  https://anid.cl/concursos/programa-de-cooperacion-cientifica-ecos-anid-2024/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘programa-de-cooperacion-cientifica-ecos-anid-2024’
+
+     0K .......... .......... .......... .......... .......... 26.5K
+    50K .........

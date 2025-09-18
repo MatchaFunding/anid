@@ -1,0 +1,18 @@
+--2025-09-17 23:09:52--  https://anid.cl/concursos/programa-iberoamericano-de-ciencia-y-tecnologia-para-el-desarrollo-cyted-convocatoria-2019-para-proyectos-en-temas-estrategicos
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/programa-iberoamericano-de-ciencia-y-tecnologia-para-el-desarrollo-cyted-convocatoria-2019-para-proyectos-en-temas-estrategicos/ [following]
+--2025-09-17 23:10:39--  https://anid.cl/concursos/programa-iberoamericano-de-ciencia-y-tecnologia-para-el-desarrollo-cyted-convocatoria-2019-para-proyectos-en-temas-estrategicos/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘programa-iberoamericano-de-ciencia-y-tecnologia-para-el-desarrollo-cyted-convocatoria-2019-para-proyectos-en-temas-estrategicos’
+
+    programa-iberoa     [      <=>           ] 120.07K   311 B/s                  programa-iberoam     [       <=>          ] 135.95K   350 B/s                 programa-iberoame     [        <=>         ] 136.07K   350 B/s               programa-iberoameri     [         <=>        ] 152.04K   391 B/s    in 6m 38s  
+
+2025-09-17 23:24:17 (432 B/s) - Read error at byte 171948 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:32--  (try: 2)  https://anid.cl/concursos/programa-iberoamericano-de-ciencia-y-tecnologia-para-el-desarrollo-cyted-convocatoria-2019-para-proyectos-en-temas-estrategicos/
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.

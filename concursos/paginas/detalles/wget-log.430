@@ -1,0 +1,39 @@
+--2025-09-17 23:09:34--  https://anid.cl/concursos/beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+WARNING: Could not save SSL session data for socket 3
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:10:41--  (try: 2)  https://anid.cl/concursos/beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020/ [following]
+--2025-09-17 23:10:46--  https://anid.cl/concursos/beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020’
+
+     0K .......... .......... .......... .......... ..........  135K
+    50K .......... .......... .                                4.58M=0.4s
+
+2025-09-17 23:21:46 (192 KB/s) - Read error at byte 73720 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:48--  (try: 2)  https://anid.cl/concursos/beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020/
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020’
+
+     0K .......... .......... .......... .......... .......... 1.30M
+    50K .......... .......... .......... .......... .......... 1.58M
+   100K .......... .......... .......... .......... .......... 2.93M
+   150K .......... .......... .......... .......... .......... 2.23M
+   200K .......... .......... .......... .......... .......... 2.07M
+   250K .......... .......... .......... .......... .......... 3.26M
+   300K ...                                                    5.97T=0.1s
+
+2025-09-17 23:21:56 (2.04 MB/s) - ‘beca-de-doctorado-en-el-extranjero-becas-chile-convocatoria-2020’ saved [310483]
+

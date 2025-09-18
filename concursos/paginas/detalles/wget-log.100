@@ -1,0 +1,20 @@
+--2025-09-17 23:09:34--  https://anid.cl/concursos/beca-de-doctorado-con-acuerdo-bilateral-en-el-extranjero-becas-chile-en-el-marco-del-acuerdo-suscrito-con-el-servicio-aleman-de-intercambio-academico-daad-convocatoria-2020
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/beca-de-doctorado-con-acuerdo-bilateral-en-el-extranjero-becas-chile-en-el-marco-del-acuerdo-suscrito-con-el-servicio-aleman-de-intercambio-academico-daad-convocatoria-2020/ [following]
+--2025-09-17 23:10:36--  https://anid.cl/concursos/beca-de-doctorado-con-acuerdo-bilateral-en-el-extranjero-becas-chile-en-el-marco-del-acuerdo-suscrito-con-el-servicio-aleman-de-intercambio-academico-daad-convocatoria-2020/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘beca-de-doctorado-con-acuerdo-bilateral-en-el-extranjero-becas-chile-en-el-marco-del-acuerdo-suscrito-con-el-servicio-aleman-de-intercambio-academico-daad-convocatoria-2020’
+
+beca-de-doctorado-c     [    <=>             ] 175.98K   460 B/s    in 6m 31s  
+
+2025-09-17 23:22:53 (460 B/s) - Read error at byte 180202 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:06--  (try: 2)  https://anid.cl/concursos/beca-de-doctorado-con-acuerdo-bilateral-en-el-extranjero-becas-chile-en-el-marco-del-acuerdo-suscrito-con-el-servicio-aleman-de-intercambio-academico-daad-convocatoria-2020/
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

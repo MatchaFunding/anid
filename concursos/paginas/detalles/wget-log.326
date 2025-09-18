@@ -1,0 +1,32 @@
+--2025-09-17 23:09:36--  https://anid.cl/concursos/concurso-de-centros-de-investigacion-aplicada-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:17:37--  (try: 2)  https://anid.cl/concursos/concurso-de-centros-de-investigacion-aplicada-2025
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+WARNING: Could not save SSL session data for socket 3
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:21:10--  (try: 3)  https://anid.cl/concursos/concurso-de-centros-de-investigacion-aplicada-2025
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-de-centros-de-investigacion-aplicada-2025/ [following]
+--2025-09-17 23:21:56--  https://anid.cl/concursos/concurso-de-centros-de-investigacion-aplicada-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-de-centros-de-investigacion-aplicada-2025’
+
+     0K .......... .......... .......... .......... .......... 1.42M
+    50K .......... .......... .......... .......... .......... 3.14M
+   100K .......... .......... .......... .......... ..........  929 
+   150K .......... .......... .......... .......... ..........  319 
+   200K .......... .......... .......... .......... ..........  206K
+   250K .......... .......... ..........                        837K=3m36s
+
+2025-09-17 23:25:33 (1.30 KB/s) - ‘concurso-de-centros-de-investigacion-aplicada-2025’ saved [287493]
+

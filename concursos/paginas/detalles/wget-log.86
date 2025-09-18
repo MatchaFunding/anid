@@ -1,0 +1,19 @@
+--2025-09-17 23:09:56--  https://anid.cl/wp-content/uploads/2021/03/Magister-para-Funcionariosas-del-Sector-Publico-Ano-Academico-2021-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:21:41--  (try: 2)  https://anid.cl/wp-content/uploads/2021/03/Magister-para-Funcionariosas-del-Sector-Publico-Ano-Academico-2021-768x512.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58151 (57K) [image/jpeg]
+Saving to: ‘Magister-para-Funcionariosas-del-Sector-Publico-Ano-Academico-2021-768x512.jpg’
+
+     0K .......... .......... .......... .......... .......... 88%  762K 0s
+    50K ......                                                100% 36.6M=0.07s
+
+2025-09-17 23:21:46 (864 KB/s) - ‘Magister-para-Funcionariosas-del-Sector-Publico-Ano-Academico-2021-768x512.jpg’ saved [58151/58151]
+

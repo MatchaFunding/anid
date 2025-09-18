@@ -1,0 +1,16 @@
+--2025-09-17 23:09:35--  https://anid.cl/concursos/beca-de-postdoctorado-en-el-extranjero-becas-chile-convocatoria-2022
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/beca-de-postdoctorado-en-el-extranjero-becas-chile-convocatoria-2022/ [following]
+--2025-09-17 23:10:43--  https://anid.cl/concursos/beca-de-postdoctorado-en-el-extranjero-becas-chile-convocatoria-2022/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘beca-de-postdoctorado-en-el-extranjero-becas-chile-convocatoria-2022’
+
+     beca-de-postdo     [     <=>            ] 143.96K  2.31KB/s               beca-de-postdoctora     [      <=>           ] 274.92K  4.41KB/s    in 62s     
+
+2025-09-17 23:17:33 (4.41 KB/s) - ‘beca-de-postdoctorado-en-el-extranjero-becas-chile-convocatoria-2022’ saved [281522]
+

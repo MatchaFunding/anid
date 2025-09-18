@@ -1,0 +1,20 @@
+--2025-09-17 23:10:07--  https://anid.cl/wp-content/uploads/2022/04/jonas-jacobsson-0FRJ2SCuY4k-unsplash-scaled.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+WARNING: Could not save SSL session data for socket 3
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:22:00--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/jonas-jacobsson-0FRJ2SCuY4k-unsplash-scaled.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 420436 (411K) [image/jpeg]
+Saving to: ‘jonas-jacobsson-0FRJ2SCuY4k-unsplash-scaled.jpg’
+
+     0K .......... .......... .......... .......... .......... 12%  463  13m18s
+    50K .......... .......... .......... .......... .......... 24% 91.0K 5m45s
+   100K .......... .......... .......... .......... .......... 36% 2.10M 3m13s
+   150K .......... .......... .......... .......... .......... 48% 3.74K 2m11s
+   200K .......... .......... .......... .......... .......... 60%  535  2m22s
+   250K ..........

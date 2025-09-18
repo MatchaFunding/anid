@@ -1,0 +1,17 @@
+--2025-09-17 23:12:11--  https://anid.cl/wp-content/uploads/2022/04/patrick-fore-3ScLeu2-jN8-unsplash-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:31:19--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/patrick-fore-3ScLeu2-jN8-unsplash-768x512.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40223 (39K) [image/jpeg]
+Saving to: ‘patrick-fore-3ScLeu2-jN8-unsplash-768x512.jpg’
+
+     0K .......... .......... .......... .........            100% 14.3M=0.003s
+
+2025-09-17 23:31:20 (14.3 MB/s) - ‘patrick-fore-3ScLeu2-jN8-unsplash-768x512.jpg’ saved [40223/40223]
+

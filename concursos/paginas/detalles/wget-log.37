@@ -1,0 +1,14 @@
+--2025-09-17 23:11:46--  https://anid.cl/wp-content/uploads/2022/04/national-cancer-institute-mi0-T2dmCO4-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127695 (125K) [image/jpeg]
+Saving to: ‘national-cancer-institute-mi0-T2dmCO4-unsplash-1536x1024.jpg’
+
+     0K .......... .......... .......... .......... .......... 40% 1.35M 0s
+    50K .......... .......... .......... .......... .......... 80% 3.13M 0s
+   100K .......... .......... ....                            100%  951K=0.08s
+
+2025-09-17 23:31:21 (1.57 MB/s) - ‘national-cancer-institute-mi0-T2dmCO4-unsplash-1536x1024.jpg’ saved [127695/127695]
+

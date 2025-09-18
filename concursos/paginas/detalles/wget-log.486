@@ -1,0 +1,13 @@
+--2025-09-17 23:12:31--  https://anid.cl/wp-content/uploads/2022/04/rephile-water-UNkNx6Hn9Fs-unsplash-768x432.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54202 (53K) [image/jpeg]
+Saving to: ‘rephile-water-UNkNx6Hn9Fs-unsplash-768x432.jpg’
+
+     0K .......... .......... .......... .......... .......... 94%  155K 0s
+    50K ..                                                    100% 5.46T=0.3s
+
+2025-09-17 23:31:23 (164 KB/s) - ‘rephile-water-UNkNx6Hn9Fs-unsplash-768x432.jpg’ saved [54202/54202]
+

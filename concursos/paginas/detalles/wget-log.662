@@ -1,0 +1,26 @@
+--2025-09-17 23:09:36--  https://anid.cl/concursos/concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2019
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:17:30--  (try: 2)  https://anid.cl/concursos/concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2019
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2019/ [following]
+--2025-09-17 23:24:40--  https://anid.cl/concursos/concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2019/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2019’
+
+     0K .......... .......... .......... .......... ..........  564 
+    50K .......... .......... .......... .......... ..........  640 
+   100K .......... .......... .......... .......... .......... 2.87K
+   150K .......... .......... .......... .......... .......... 1.99K
+   200K .......... .......... .......... .......... .......... 2.49K
+   250K .......... ..........                                  79.0M=3m53s
+
+2025-09-17 23:31:18 (1.16 KB/s) - ‘concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2019’ saved [277424]
+

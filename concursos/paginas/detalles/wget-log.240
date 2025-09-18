@@ -1,0 +1,21 @@
+--2025-09-17 23:09:48--  https://anid.cl/concursos/fortalecimiento-a-las-capacidades-para-id-2022
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/fortalecimiento-a-las-capacidades-para-id-2022/ [following]
+--2025-09-17 23:10:59--  https://anid.cl/concursos/fortalecimiento-a-las-capacidades-para-id-2022/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘fortalecimiento-a-las-capacidades-para-id-2022’
+
+     0K .......... .......... .......... .......... ..........  205K
+    50K .......... .......... .......... .......... .......... 50.1M
+   100K .......... .......... .......... .......... ..........  968 
+   150K .......... .......... .......... .......... ..........  123K
+   200K .......... .......... .......... .......... .......... 1.29M
+   250K .......... .......... .                                23.0M=54s
+
+2025-09-17 23:20:06 (5.06 KB/s) - ‘fortalecimiento-a-las-capacidades-para-id-2022’ saved [277908]
+

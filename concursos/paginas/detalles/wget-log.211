@@ -1,0 +1,17 @@
+--2025-09-17 23:13:23--  https://anid.cl/wp-content/uploads/2022/04/patrick-fore-3ScLeu2-jN8-unsplash-2048x1365.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258919 (253K) [image/jpeg]
+Saving to: ‘patrick-fore-3ScLeu2-jN8-unsplash-2048x1365.jpg’
+
+     0K .......... .......... .......... .......... .......... 19%  626K 0s
+    50K .......... .......... .......... .......... .......... 39%  358K 0s
+   100K .......... .......... .......... .......... .......... 59%  833K 0s
+   150K .......... .......... .......... .......... .......... 79% 47.3M 0s
+   200K .......... .......... .......... .......... .......... 98%  418K 0s
+   250K ..                                                    100% 5.31T=0.4s
+
+2025-09-17 23:31:20 (632 KB/s) - ‘patrick-fore-3ScLeu2-jN8-unsplash-2048x1365.jpg’ saved [258919/258919]
+

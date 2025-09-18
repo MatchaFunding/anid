@@ -1,0 +1,12 @@
+--2025-09-17 23:10:07--  https://anid.cl/wp-content/uploads/2022/04/jeremy-thomas-E0AHdsENmDg-unsplash-1-300x205.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12687 (12K) [image/jpeg]
+Saving to: ‘jeremy-thomas-E0AHdsENmDg-unsplash-1-300x205.jpg’
+
+     0K .......... ..                                         100% 1.02K=12s
+
+2025-09-17 23:26:16 (1.02 KB/s) - ‘jeremy-thomas-E0AHdsENmDg-unsplash-1-300x205.jpg’ saved [12687/12687]
+

@@ -1,0 +1,23 @@
+--2025-09-17 23:15:50--  https://anid.cl/wp-content/uploads/2022/07/cdc-VbFUT8B513E-unsplash-1024x646.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119687 (117K) [image/jpeg]
+Saving to: ‘cdc-VbFUT8B513E-unsplash-1024x646.jpg’
+
+     0K .......... .......... .......... .......... .......... 42% 3.44M 0s
+    50K .......... .......... ........                         67% 1.12M=0.04s
+
+2025-09-17 23:40:12 (1.97 MB/s) - Read error at byte 80357/119687 (Error in the pull function.). Retrying.
+
+--2025-09-17 23:40:13--  (try: 2)  https://anid.cl/wp-content/uploads/2022/07/cdc-VbFUT8B513E-unsplash-1024x646.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.

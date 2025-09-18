@@ -1,0 +1,14 @@
+--2025-09-17 23:12:31--  https://anid.cl/wp-content/uploads/2022/06/maxim-hopman-8vn4KvfU640-unsplash-2048x1421.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140529 (137K) [image/jpeg]
+Saving to: ‘maxim-hopman-8vn4KvfU640-unsplash-2048x1421.jpg’
+
+     0K .......... .......... .......... .......... .......... 36%  318K 0s
+    50K .......... .......... .......... .......... .......... 72% 2.35M 0s
+   100K .......... .......... .......... .......              100%  653K=0.2s
+
+2025-09-17 23:31:24 (584 KB/s) - ‘maxim-hopman-8vn4KvfU640-unsplash-2048x1421.jpg’ saved [140529/140529]
+

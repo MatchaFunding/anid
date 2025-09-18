@@ -1,0 +1,33 @@
+--2025-09-17 23:09:49--  https://anid.cl/concursos/magister-funcionariosas-publicos-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/magister-funcionariosas-publicos-2025/ [following]
+--2025-09-17 23:10:37--  https://anid.cl/concursos/magister-funcionariosas-publicos-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘magister-funcionariosas-publicos-2025’
+
+     0K .......... .......... .......... .......... .......... 43.7M
+    50K .......... .......... .                                90.2M=0.001s
+
+2025-09-17 23:21:39 (51.9 MB/s) - Read error at byte 73720 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:40--  (try: 2)  https://anid.cl/concursos/magister-funcionariosas-publicos-2025/
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘magister-funcionariosas-publicos-2025’
+
+     0K .......... .......... .......... .......... ..........  178K
+    50K .......... .......... .......... .......... .......... 61.1K
+   100K .......... .......... .......... .......... ..........  972K
+   150K .......... .......... .......... .......... .......... 4.09M
+   200K .......... .......... .......... .......... .......... 32.9K
+   250K .......... .......... .......... .......... .......... 2.58M
+   300K .........                                              34.5M=2.7s
+
+2025-09-17 23:21:46 (115 KB/s) - ‘magister-funcionariosas-publicos-2025’ saved [317334]
+

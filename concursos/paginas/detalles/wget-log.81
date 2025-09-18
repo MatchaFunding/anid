@@ -1,0 +1,18 @@
+--2025-09-17 23:09:34--  https://anid.cl/concursos/apoyo-a-centros-cientificos-y-tecnologicos-de-excelencia-con-financiamiento-basal-2024
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/apoyo-a-centros-cientificos-y-tecnologicos-de-excelencia-con-financiamiento-basal-2024/ [following]
+--2025-09-17 23:10:34--  https://anid.cl/concursos/apoyo-a-centros-cientificos-y-tecnologicos-de-excelencia-con-financiamiento-basal-2024/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘apoyo-a-centros-cientificos-y-tecnologicos-de-excelencia-con-financiamiento-basal-2024’
+
+      apoyo-a-centr     [    <=>             ]  88.10K   221 B/s                    apoyo-a-centro     [     <=>            ] 103.98K   259 B/s               apoyo-a-centros-cie     [      <=>           ] 143.98K   359 B/s    in 6m 51s  
+
+2025-09-17 23:24:17 (359 B/s) - Read error at byte 147434 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:32--  (try: 2)  https://anid.cl/concursos/apoyo-a-centros-cientificos-y-tecnologicos-de-excelencia-con-financiamiento-basal-2024/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.

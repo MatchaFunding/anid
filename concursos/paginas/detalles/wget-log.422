@@ -1,0 +1,22 @@
+--2025-09-17 23:09:51--  https://anid.cl/concursos/postdoctorado-becas-chile-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/postdoctorado-becas-chile-2025/ [following]
+--2025-09-17 23:31:19--  https://anid.cl/concursos/postdoctorado-becas-chile-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘postdoctorado-becas-chile-2025’
+
+     0K .......... .......... .......... .......... ..........  159K
+    50K .......... .......... .......... .......... ..........  324K
+   100K .......... .......... .......... .......... .......... 11.9M
+   150K .......... .......... .......... .......... .......... 1.42M
+   200K .......... .......... .......... .......... ..........  388K
+   250K .......... .......... .......... .......... .......... 1.41M
+   300K ....                                                   23.8M=0.7s
+
+2025-09-17 23:31:21 (454 KB/s) - ‘postdoctorado-becas-chile-2025’ saved [311588]
+

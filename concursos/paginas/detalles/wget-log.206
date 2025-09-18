@@ -1,0 +1,22 @@
+--2025-09-17 23:10:01--  https://anid.cl/wp-content/uploads/2022/04/anoushka-p-f1YfrZ1o2r8-unsplash-2048x1365.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:21:41--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/anoushka-p-f1YfrZ1o2r8-unsplash-2048x1365.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246216 (240K) [image/jpeg]
+Saving to: ‘anoushka-p-f1YfrZ1o2r8-unsplash-2048x1365.jpg’
+
+     0K .......... .......... .......... .......... .......... 20% 4.06M 0s
+    50K .......... .......... .......... .......... .......... 41% 1.18M 0s
+   100K .......... .......... .......... .......... .......... 62% 1.25M 0s
+   150K .......... .......... .......... .......... .......... 83% 1.61M 0s
+   200K .......... .......... .......... ..........           100% 2.60M=0.1s
+
+2025-09-17 23:21:54 (1.70 MB/s) - ‘anoushka-p-f1YfrZ1o2r8-unsplash-2048x1365.jpg’ saved [246216/246216]
+

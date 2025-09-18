@@ -1,0 +1,20 @@
+--2025-09-17 23:09:41--  https://anid.cl/concursos/concurso-ines-genero-2021
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-ines-genero-2021/ [following]
+--2025-09-17 23:10:37--  https://anid.cl/concursos/concurso-ines-genero-2021/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-ines-genero-2021’
+
+        concurso-in     [  <=>               ]   7.85K   396 B/s               concurso-ines-gener     [   <=>              ]  79.99K  3.93KB/s    in 20s     
+
+2025-09-17 23:22:53 (3.93 KB/s) - Read error at byte 81906 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:06--  (try: 2)  https://anid.cl/concursos/concurso-ines-genero-2021/
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

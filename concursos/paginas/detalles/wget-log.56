@@ -1,0 +1,16 @@
+--2025-09-17 23:09:36--  https://anid.cl/concursos/concurso-apoyo-al-fortalecimiento-a-las-capacidades-para-id-2023-tecnologicos-e-internacionales
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-apoyo-al-fortalecimiento-a-las-capacidades-para-id-2023-tecnologicos-e-internacionales/ [following]
+--2025-09-17 23:10:43--  https://anid.cl/concursos/concurso-apoyo-al-fortalecimiento-a-las-capacidades-para-id-2023-tecnologicos-e-internacionales/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-apoyo-al-fortalecimiento-a-las-capacidades-para-id-2023-tecnologicos-e-internacionales’
+
+       concurso-apo     [   <=>              ]  31.99K  92.4 B/s                     concurso-apoy     [    <=>             ] 207.95K   600 B/s               concurso-apoyo-al-f     [     <=>            ] 298.59K   862 B/s    in 5m 55s  
+
+2025-09-17 23:17:33 (862 B/s) - ‘concurso-apoyo-al-fortalecimiento-a-las-capacidades-para-id-2023-tecnologicos-e-internacionales’ saved [305760]
+

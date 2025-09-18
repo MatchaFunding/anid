@@ -1,0 +1,12 @@
+--2025-09-17 23:13:19--  https://anid.cl/wp-content/uploads/2022/04/possessed-photography-jIBMSMs4_kA-unsplash-768x553.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37511 (37K) [image/jpeg]
+Saving to: ‘possessed-photography-jIBMSMs4_kA-unsplash-768x553.jpg’
+
+     0K .......... .......... .......... ......               100% 1.16M=0.03s
+
+2025-09-17 23:31:24 (1.16 MB/s) - ‘possessed-photography-jIBMSMs4_kA-unsplash-768x553.jpg’ saved [37511/37511]
+

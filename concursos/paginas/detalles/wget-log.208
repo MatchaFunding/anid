@@ -1,0 +1,12 @@
+--2025-09-17 23:12:10--  https://anid.cl/wp-content/uploads/2022/06/mary-ray-klVPRIylMJY-unsplash-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.71, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46446 (45K) [image/jpeg]
+Saving to: ‘mary-ray-klVPRIylMJY-unsplash-768x512.jpg’
+
+     0K .......... .......... .......... .......... .....     100% 7.97M=0.006s
+
+2025-09-17 23:21:54 (7.97 MB/s) - ‘mary-ray-klVPRIylMJY-unsplash-768x512.jpg’ saved [46446/46446]
+

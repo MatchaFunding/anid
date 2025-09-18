@@ -1,0 +1,15 @@
+--2025-09-17 23:12:36--  https://anid.cl/wp-content/uploads/2022/04/redd-9o8YdYGTT64-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200577 (196K) [image/jpeg]
+Saving to: ‘redd-9o8YdYGTT64-unsplash-1536x1024.jpg’
+
+     0K .......... .......... .......... .......... .......... 25% 68.5M 0s
+    50K .......... .......... .......... .......... .......... 51%  274K 0s
+   100K .......... .......... .......... .......... .......... 76% 1.42M 0s
+   150K .......... .......... .......... .......... .....     100% 7.77K=6.1s
+
+2025-09-17 23:21:53 (32.0 KB/s) - ‘redd-9o8YdYGTT64-unsplash-1536x1024.jpg’ saved [200577/200577]
+

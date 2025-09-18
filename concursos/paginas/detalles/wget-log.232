@@ -1,0 +1,17 @@
+--2025-09-17 23:10:07--  https://anid.cl/wp-content/uploads/2022/04/jonas-jacobsson-0FRJ2SCuY4k-unsplash-2048x1366.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272031 (266K) [image/jpeg]
+Saving to: ‘jonas-jacobsson-0FRJ2SCuY4k-unsplash-2048x1366.jpg’
+
+     0K .......... .......... .......... .......... .......... 18% 4.04K 53s
+    50K .......... .......... .......... .......... .......... 37% 1.86K 65s
+   100K .......... .......... .......... .......... .......... 56%  711  86s
+   150K .......... .......... .......... .......... .......... 75%  565  66s
+   200K .......... .......... .......... .......... .......... 94%  847  16s
+   250K .......... .....                                      100%  829 =4m42s
+
+2025-09-17 23:30:20 (966 B/s) - ‘jonas-jacobsson-0FRJ2SCuY4k-unsplash-2048x1366.jpg’ saved [272031/272031]
+

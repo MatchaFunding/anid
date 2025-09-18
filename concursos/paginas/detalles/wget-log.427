@@ -1,0 +1,18 @@
+--2025-09-17 23:12:08--  https://anid.cl/wp-content/uploads/2022/06/Mujer114-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:31:27--  (try: 2)  https://anid.cl/wp-content/uploads/2022/06/Mujer114-300x200.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.

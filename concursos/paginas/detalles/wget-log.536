@@ -1,0 +1,9 @@
+--2025-09-17 23:09:45--  https://anid.cl/concursos/conocimientos-2030-etapa-1
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/conocimientos-2030-etapa-1/ [following]
+--2025-09-17 23:11:00--  https://anid.cl/concursos/conocimientos-2030-etapa-1/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 3

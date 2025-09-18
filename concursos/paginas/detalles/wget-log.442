@@ -1,0 +1,17 @@
+--2025-09-17 23:13:18--  https://anid.cl/wp-content/uploads/2022/04/national-cancer-institute-MQ2UDWKZgIM-unsplash-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:31:22--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/national-cancer-institute-MQ2UDWKZgIM-unsplash-768x512.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51177 (50K) [image/jpeg]
+Saving to: ‘national-cancer-institute-MQ2UDWKZgIM-unsplash-768x512.jpg’
+
+     0K .......... .......... .......... .......... ......... 100% 2.63M=0.02s
+
+2025-09-17 23:31:23 (2.63 MB/s) - ‘national-cancer-institute-MQ2UDWKZgIM-unsplash-768x512.jpg’ saved [51177/51177]
+

@@ -1,0 +1,19 @@
+--2025-09-17 23:09:34--  https://anid.cl/concursos/9-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-viu
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/9-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-viu/ [following]
+--2025-09-17 23:10:38--  https://anid.cl/concursos/9-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-viu/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘9-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-viu’
+
+    9-concurso-de-v     [      <=>           ]  40.11K   634 B/s                  9-concurso-de-va     [       <=>          ]  55.98K   823 B/s                 9-concurso-de-val     [        <=>         ]  71.98K  1.02KB/s                9-concurso-de-valo     [         <=>        ]  71.98K  --.-KB/s               9-concurso-de-valor     [          <=>       ]  71.98K  --.-KB/s               -concurso-de-valori     [           <=>      ]  71.98K  --.-KB/s               concurso-de-valoriz     [            <=>     ]  71.98K  --.-KB/s               oncurso-de-valoriza     [             <=>    ]  71.98K  --.-KB/s               ncurso-de-valorizac     [              <=>   ]  71.98K  --.-KB/s               curso-de-valorizaci     [               <=>  ]  71.98K  --.-KB/s               urso-de-valorizacio     [                <=> ]  71.98K  --.-KB/s               rso-de-valorizacion     [                 <=>]  71.98K  --.-KB/s               so-de-valorizacion-     [                <=> ]  71.98K  --.-KB/s               o-de-valorizacion-d     [               <=>  ]  71.98K  --.-KB/s               -de-valorizacion-de     [              <=>   ]  71.98K  --.-KB/s               de-valorizacion-de-     [             <=>    ]  71.98K  --.-KB/s               e-valorizacion-de-l     [            <=>     ]  71.98K  --.-KB/s               -valorizacion-de-la     [           <=>      ]  71.98K  --.-KB/s               valorizacion-de-la-     [          <=>       ]  71.98K  --.-KB/s               alorizacion-de-la-i     [         <=>        ]  71.98K  --.-KB/s               lorizacion-de-la-in     [        <=>         ]  71.98K  --.-KB/s               orizacion-de-la-inv     [       <=>          ]  71.98K  --.-KB/s               rizacion-de-la-inve     [      <=>           ]  71.98K  --.-KB/s               izacion-de-la-inves     [     <=>            ]  71.98K  --.-KB/s               zacion-de-la-invest     [    <=>             ]  71.98K  --.-KB/s               acion-de-la-investi     [   <=>              ]  71.98K  --.-KB/s               cion-de-la-investig     [  <=>               ]  71.98K  --.-KB/s               ion-de-la-investiga     [ <=>                ]  71.98K  --.-KB/s               on-de-la-investigac     [<=>                 ]  71.98K  --.-KB/s               n-de-la-investigaci     [ <=>                ]  71.98K  --.-KB/s               -de-la-investigacio     [  <=>               ]  71.98K  --.-KB/s               de-la-investigacion     [   <=>              ]  71.98K  --.-KB/s               e-la-investigacion-     [    <=>             ]  71.98K  --.-KB/s               9-concurso-de-valor     [     <=>            ]  71.98K  --.-KB/s    in 5m 30s  
+
+2025-09-17 23:24:17 (223 B/s) - Read error at byte 73710 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:32--  (try: 2)  https://anid.cl/concursos/9-concurso-de-valorizacion-de-la-investigacion-en-la-universidad-viu/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+WARNING: Could not save SSL session data for socket 3

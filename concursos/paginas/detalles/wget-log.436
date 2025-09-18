@@ -1,0 +1,26 @@
+--2025-09-17 23:09:50--  https://anid.cl/concursos/postdoctorado-becas-chile-2023
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/postdoctorado-becas-chile-2023/ [following]
+--2025-09-17 23:10:44--  https://anid.cl/concursos/postdoctorado-becas-chile-2023/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘postdoctorado-becas-chile-2023’
+
+     0K .......... .......... .......... .......... .......... 3.85M
+    50K .......... .......... .........                        52.8M=0.01s
+
+2025-09-17 23:21:45 (5.90 MB/s) - Read error at byte 81906 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:46--  (try: 2)  https://anid.cl/concursos/postdoctorado-becas-chile-2023/
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:26:16--  (try: 3)  https://anid.cl/concursos/postdoctorado-becas-chile-2023/
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

@@ -1,0 +1,29 @@
+--2025-09-17 23:10:06--  https://anid.cl/wp-content/uploads/2022/04/jeremy-thomas-E0AHdsENmDg-unsplash-2048x1398.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:31:22--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/jeremy-thomas-E0AHdsENmDg-unsplash-2048x1398.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 644124 (629K) [image/jpeg]
+Saving to: ‘jeremy-thomas-E0AHdsENmDg-unsplash-2048x1398.jpg’
+
+     0K .......... .......... .......... .......... ..........  7%  521K 1s
+    50K .......... .......... .......... .......... .......... 15%  396K 1s
+   100K .......... .......... .......... .......... .......... 23% 1.16M 1s
+   150K .......... .......... .......... .......... .......... 31% 1.20M 1s
+   200K .......... .......... .......... .......... .......... 39%  137K 1s
+   250K .......... .......... .......... .......... .......... 47%  865K 1s
+   300K .......... .......... .......... .......... .......... 55%  402K 1s
+   350K .......... .......... .......... .......... .......... 63%  464K 1s
+   400K .......... .......... .......... .......... .......... 71% 1.94M 0s
+   450K .......... .......... .......... .......... .......... 79%  643K 0s
+   500K .......... .......... .......... .......... .......... 87% 55.9M 0s
+   550K .......... .......... .......... .......... .......... 95% 1.11M 0s
+   600K .......... .......... .........                       100%  133M=1.1s
+
+2025-09-17 23:31:24 (568 KB/s) - ‘jeremy-thomas-E0AHdsENmDg-unsplash-2048x1398.jpg’ saved [644124/644124]
+

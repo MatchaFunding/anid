@@ -1,0 +1,27 @@
+--2025-09-17 23:09:44--  https://anid.cl/concursos/concurso-viu-2022
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.55, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-viu-2022/ [following]
+--2025-09-17 23:11:22--  https://anid.cl/concursos/concurso-viu-2022/
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+Failed writing HTTP request: Error in the push function..
+Retrying.
+
+--2025-09-17 23:21:39--  (try: 2)  https://anid.cl/concursos/concurso-viu-2022/
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-viu-2022’
+
+     0K .......... .......... .......... .......... ..........  188K
+    50K .......... .......... .......... .......... .......... 37.7K
+   100K .......... .......... .......... .......... .......... 1.87M
+   150K .......... .......... .......... .......... .......... 1.67M
+   200K .......... .......... .......... .......... .......... 1.08M
+   250K .......... .......... .......                          1.19M=1.7s
+
+2025-09-17 23:21:53 (162 KB/s) - ‘concurso-viu-2022’ saved [284487]
+

@@ -1,0 +1,19 @@
+--2025-09-17 23:16:18--  https://anid.cl/wp-content/uploads/2022/07/claudia-kirchberger-GU02I9D60dQ-unsplash-1536x1027.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392311 (383K) [image/jpeg]
+Saving to: ‘claudia-kirchberger-GU02I9D60dQ-unsplash-1536x1027.jpg’
+
+     0K .......... .......... .......... .......... .......... 13% 1.10M 0s
+    50K .......... .......... .......... .......... .......... 26% 1.20M 0s
+   100K .......... .......... .......... .......... .......... 39% 2.27M 0s
+   150K .......... .......... .......... .......... .......... 52% 2.68M 0s
+   200K .......... .......... .......... .......... .......... 65% 1.16M 0s
+   250K .......... .......... .......... .......... .......... 78% 1.01M 0s
+   300K .......... .......... .......... .......... .......... 91%  770K 0s
+   350K .......... .......... .......... ...                  100% 8.59M=0.3s
+
+2025-09-17 23:31:23 (1.32 MB/s) - ‘claudia-kirchberger-GU02I9D60dQ-unsplash-1536x1027.jpg’ saved [392311/392311]
+

@@ -1,0 +1,21 @@
+--2025-09-17 23:09:35--  https://anid.cl/concursos/becas-de-subespecialidad-medica-en-el-extranjero-becas-chile-2020-concurso-suspendido
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:10:39--  (try: 2)  https://anid.cl/concursos/becas-de-subespecialidad-medica-en-el-extranjero-becas-chile-2020-concurso-suspendido
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/becas-de-subespecialidad-medica-en-el-extranjero-becas-chile-2020-concurso-suspendido/ [following]
+--2025-09-17 23:10:43--  https://anid.cl/concursos/becas-de-subespecialidad-medica-en-el-extranjero-becas-chile-2020-concurso-suspendido/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘becas-de-subespecialidad-medica-en-el-extranjero-becas-chile-2020-concurso-suspendido’
+
+
+
+2025-09-17 23:17:33 (4.78 KB/s) - ‘becas-de-subespecialidad-medica-en-el-extranjero-becas-chile-2020-concurso-suspendido’ saved [302801]
+

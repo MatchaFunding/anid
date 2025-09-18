@@ -1,0 +1,15 @@
+--2025-09-17 23:11:46--  https://anid.cl/wp-content/uploads/2022/04/prasesh-shiwakoti-lomash-7XvputByH_M-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156975 (153K) [image/jpeg]
+Saving to: ‘prasesh-shiwakoti-lomash-7XvputByH_M-unsplash-1536x1024.jpg’
+
+     0K .......... .......... .......... .......... .......... 32% 1.08M 0s
+    50K .......... .......... .......... .......... .......... 65% 11.5M 0s
+   100K .......... .......... .......... .......... .......... 97% 9.18M 0s
+   150K ...                                                   100% 6.14T=0.05s
+
+2025-09-17 23:31:21 (2.74 MB/s) - ‘prasesh-shiwakoti-lomash-7XvputByH_M-unsplash-1536x1024.jpg’ saved [156975/156975]
+

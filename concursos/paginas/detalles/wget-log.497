@@ -1,0 +1,28 @@
+--2025-09-17 23:09:46--  https://anid.cl/concursos/convocatoria-nacional-subvencion-a-la-instalacion-en-la-academia-2021
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/convocatoria-nacional-subvencion-a-la-instalacion-en-la-academia-2021/ [following]
+--2025-09-17 23:10:58--  https://anid.cl/concursos/convocatoria-nacional-subvencion-a-la-instalacion-en-la-academia-2021/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘convocatoria-nacional-subvencion-a-la-instalacion-en-la-academia-2021’
+
+     0K .......... .......... .......... .......... .......... 1.27M
+    50K .......... .......... .........                        11.3M=0.04s
+
+2025-09-17 23:21:47 (1.91 MB/s) - Read error at byte 81912 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:48--  (try: 2)  https://anid.cl/concursos/convocatoria-nacional-subvencion-a-la-instalacion-en-la-academia-2021/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘convocatoria-nacional-subvencion-a-la-instalacion-en-la-academia-2021’
+
+     0K .......... .......... .......... .......... ..........  597 
+    50K .......... .......... .......... .......... ..........  684 
+   100K .......... .......... .......... .......... ..........  197K
+   150K .......... .......... .......... .......... .......... 1.42K
+   200K .......... .....

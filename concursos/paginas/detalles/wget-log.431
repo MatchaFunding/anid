@@ -1,0 +1,17 @@
+--2025-09-17 23:10:01--  https://anid.cl/wp-content/uploads/2022/04/anoushka-p-f1YfrZ1o2r8-unsplash-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:21:48--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/anoushka-p-f1YfrZ1o2r8-unsplash-300x200.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12254 (12K) [image/jpeg]
+Saving to: ‘anoushka-p-f1YfrZ1o2r8-unsplash-300x200.jpg’
+
+     0K .......... .                                          100%  245 =50s
+
+2025-09-17 23:25:05 (245 B/s) - ‘anoushka-p-f1YfrZ1o2r8-unsplash-300x200.jpg’ saved [12254/12254]
+

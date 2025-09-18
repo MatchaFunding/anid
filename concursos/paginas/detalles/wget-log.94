@@ -1,0 +1,16 @@
+--2025-09-17 23:15:49--  https://anid.cl/wp-content/uploads/2022/07/bruna-fiscuk-TX-hbcZrhMA-unsplash-2-scaled.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 365513 (357K) [image/jpeg]
+Saving to: ‘bruna-fiscuk-TX-hbcZrhMA-unsplash-2-scaled.jpg’
+
+     0K .......... .......... .......... .......... .......... 14% 43.9M 0s
+    50K .......... .......... .......... .......... .......... 28% 1.58M 0s
+   100K .......... .......... .......... .......... .......... 42%  966K 0s
+   150K .......... .......... .......... .......... .......... 56%  870K 0s
+   200K .......... .......... .......... .......... .......... 70%  870K 0s
+   250K .......... .......... .......... .......... .......... 84%  847K 0s
+   300K .......... .......... .......... .......... .......... 98%  862K 0s
+   350K ......

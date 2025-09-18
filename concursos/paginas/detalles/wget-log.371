@@ -1,0 +1,32 @@
+--2025-09-17 23:09:42--  https://anid.cl/concursos/concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.55, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur/ [following]
+--2025-09-17 23:10:58--  https://anid.cl/concursos/concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur’
+
+     0K .......... .......... .......... .......... ..........  518K
+    50K .......... .......... .........                        72.2M=0.1s
+
+2025-09-17 23:21:39 (825 KB/s) - Read error at byte 81906 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:41--  (try: 2)  https://anid.cl/concursos/concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur/
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur’
+
+     0K .......... .......... .......... .......... .......... 59.3M
+    50K .......... .......... .......... .......... ..........  787K
+   100K .......... .......... .......... .......... .......... 2.15M
+   150K .......... .......... .......... .......... ..........  733K
+   200K .......... .......... .......... .......... ..........  967K
+   250K .......... .......... .......... .......... ........   1.25M=0.2s
+
+2025-09-17 23:21:54 (1.19 MB/s) - ‘concurso-nodos-de-aceleracion-de-impacto-territorial-de-la-ctci-macrozona-sur’ saved [305621]
+

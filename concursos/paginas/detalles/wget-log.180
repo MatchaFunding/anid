@@ -1,0 +1,12 @@
+--2025-09-17 23:12:11--  https://anid.cl/wp-content/uploads/2022/06/observatory-2656173_1920-300x199.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8438 (8.2K) [image/jpeg]
+Saving to: ‘observatory-2656173_1920-300x199.jpg’
+
+     0K ........                                              100% 6.20M=0.001s
+
+2025-09-17 23:31:21 (6.20 MB/s) - ‘observatory-2656173_1920-300x199.jpg’ saved [8438/8438]
+

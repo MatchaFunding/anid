@@ -1,0 +1,11 @@
+--2025-09-17 23:10:08--  https://anid.cl/wp-content/uploads/2022/04/headway-5QgIuuBxKwM-unsplash-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:27:23--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/headway-5QgIuuBxKwM-unsplash-768x512.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+GnuTLS: Error in the push function.
+Unable to establish SSL connection.

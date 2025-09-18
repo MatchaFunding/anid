@@ -1,0 +1,18 @@
+--2025-09-17 23:09:56--  https://anid.cl/wp-content/uploads/2022/04/APEX_Stands_Sentry_on_Chajnantor-1024x506.jpeg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:20:28--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/APEX_Stands_Sentry_on_Chajnantor-1024x506.jpeg
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69826 (68K) [image/jpeg]
+Saving to: ‘APEX_Stands_Sentry_on_Chajnantor-1024x506.jpeg’
+
+     0K .......... .......... .......... .......... .......... 73% 11.9M 0s
+    50K .......... ........                                   100%  102M=0.004s
+
+2025-09-17 23:21:48 (15.6 MB/s) - ‘APEX_Stands_Sentry_on_Chajnantor-1024x506.jpeg’ saved [69826/69826]
+

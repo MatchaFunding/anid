@@ -1,0 +1,14 @@
+--2025-09-17 23:10:09--  https://anid.cl/wp-content/uploads/2022/04/headway-5QgIuuBxKwM-unsplash-1536x1024.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146881 (143K) [image/jpeg]
+Saving to: ‘headway-5QgIuuBxKwM-unsplash-1536x1024.jpg’
+
+     0K .......... .......... .......... .......... .......... 34%  462  3m27s
+    50K .......... .......... .......... .......... .......... 69%  141K 48s
+   100K .......... .......... .......... .......... ...       100%  449 =3m30s
+
+2025-09-17 23:27:52 (699 B/s) - ‘headway-5QgIuuBxKwM-unsplash-1536x1024.jpg’ saved [146881/146881]
+

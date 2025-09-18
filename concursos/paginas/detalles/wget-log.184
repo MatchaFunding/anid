@@ -1,0 +1,20 @@
+--2025-09-17 23:09:43--  https://anid.cl/concursos/concurso-para-el-desafio-global-de-longevidad-saludable-nam-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-para-el-desafio-global-de-longevidad-saludable-nam-2025/ [following]
+--2025-09-17 23:10:40--  https://anid.cl/concursos/concurso-para-el-desafio-global-de-longevidad-saludable-nam-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-para-el-desafio-global-de-longevidad-saludable-nam-2025’
+
+        concurso-pa     [  <=>               ]  23.75K  5.00KB/s                      concurso-par     [   <=>              ]  23.99K   971 B/s               concurso-para-el-de     [    <=>             ]  75.65K  2.98KB/s    in 25s     
+
+2025-09-17 23:24:18 (2.98 KB/s) - Read error at byte 77466 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:24:40--  (try: 2)  https://anid.cl/concursos/concurso-para-el-desafio-global-de-longevidad-saludable-nam-2025/
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+GnuTLS: The TLS connection was non-properly terminated.
+Unable to establish SSL connection.

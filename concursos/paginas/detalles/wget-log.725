@@ -1,0 +1,32 @@
+--2025-09-17 23:09:40--  https://anid.cl/concursos/concurso-ines-ciencia-abierta-2021
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-ines-ciencia-abierta-2021/ [following]
+--2025-09-17 23:10:40--  https://anid.cl/concursos/concurso-ines-ciencia-abierta-2021/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-ines-ciencia-abierta-2021’
+
+     0K .......... .......... .......... .......... .......... 4.59M
+    50K .......... .......... .........                        41.3M=0.01s
+
+2025-09-17 23:21:56 (6.88 MB/s) - Read error at byte 81906 (Error in the pull function.).Retrying.
+
+--2025-09-17 23:21:57--  (try: 2)  https://anid.cl/concursos/concurso-ines-ciencia-abierta-2021/
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-ines-ciencia-abierta-2021’
+
+     0K .......... .......... .......... .......... ..........  507 
+    50K .......... .......... .......... .......... ..........  729 
+   100K .......... .......... .......... .......... ..........  402 
+   150K .......... .......... .......... .......... ..........  596 
+   200K .......... .......... .......... .......... .......... 2.49K
+   250K .......... .......... ..                                534 =7m28s
+
+2025-09-17 23:31:05 (623 B/s) - ‘concurso-ines-ciencia-abierta-2021’ saved [279321]
+

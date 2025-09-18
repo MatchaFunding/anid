@@ -1,0 +1,16 @@
+--2025-09-17 23:12:31--  https://anid.cl/wp-content/uploads/2022/06/john-kakuk-3kpwMO2bcR4-unsplash-1536x864.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230855 (225K) [image/jpeg]
+Saving to: ‘john-kakuk-3kpwMO2bcR4-unsplash-1536x864.jpg’
+
+     0K .......... .......... .......... .......... .......... 22% 1.02M 0s
+    50K .......... .......... .......... .......... .......... 44%  952K 0s
+   100K .......... .......... .......... .......... .......... 66% 2.53M 0s
+   150K .......... .......... .......... .......... .......... 88% 60.3M 0s
+   200K .......... .......... .....                           100% 73.6M=0.1s
+
+2025-09-17 23:31:25 (1.82 MB/s) - ‘john-kakuk-3kpwMO2bcR4-unsplash-1536x864.jpg’ saved [230855/230855]
+

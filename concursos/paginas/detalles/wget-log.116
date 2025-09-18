@@ -1,0 +1,22 @@
+--2025-09-17 23:13:29--  https://anid.cl/wp-content/uploads/2022/06/lucas-faragoza-DM517c34Rgo-unsplash-2048x1365.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 434140 (424K) [image/jpeg]
+Saving to: ‘lucas-faragoza-DM517c34Rgo-unsplash-2048x1365.jpg’
+
+     0K .......... .......... .......... .                      7% 65.8M=0s
+
+2025-09-17 23:40:22 (65.8 MB/s) - Read error at byte 32131/434140 (Error in the pull function.). Retrying.
+
+--2025-09-17 23:40:23--  (try: 2)  https://anid.cl/wp-content/uploads/2022/06/lucas-faragoza-DM517c34Rgo-unsplash-2048x1365.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
+Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.

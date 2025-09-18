@@ -1,0 +1,15 @@
+--2025-09-17 23:12:36--  https://anid.cl/wp-content/uploads/2022/06/Laboratorio_usach_11-2048x1367.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.55, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184510 (180K) [image/jpeg]
+Saving to: ‘Laboratorio_usach_11-2048x1367.jpg’
+
+     0K .......... .......... .......... .......... .......... 27%  643K 0s
+    50K .......... .......... .......... .......... .......... 55% 1024K 0s
+   100K .......... .......... .......... .......... .......... 83% 3.28M 0s
+   150K .......... .......... ..........                      100% 43.2M=0.1s
+
+2025-09-17 23:31:20 (1.24 MB/s) - ‘Laboratorio_usach_11-2048x1367.jpg’ saved [184510/184510]
+

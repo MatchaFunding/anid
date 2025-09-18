@@ -1,0 +1,6 @@
+--2025-09-17 23:09:53--  https://anid.cl/concursos/segundo-llamado-beneficios-complementarios-2023
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+GnuTLS: Error in the push function.
+Unable to establish SSL connection.

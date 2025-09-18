@@ -1,0 +1,12 @@
+--2025-09-17 23:12:31--  https://anid.cl/wp-content/uploads/2022/04/thisisengineering-raeng-0jTZTMyGym8-unsplash-300x200.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.71, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9990 (9.8K) [image/jpeg]
+Saving to: ‘thisisengineering-raeng-0jTZTMyGym8-unsplash-300x200.jpg’
+
+     0K .........                                             100% 85.9M=0s
+
+2025-09-17 23:31:20 (85.9 MB/s) - ‘thisisengineering-raeng-0jTZTMyGym8-unsplash-300x200.jpg’ saved [9990/9990]
+

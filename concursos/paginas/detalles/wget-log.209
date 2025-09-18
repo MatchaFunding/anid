@@ -1,0 +1,23 @@
+--2025-09-17 23:10:03--  https://anid.cl/wp-content/uploads/2022/04/devon-divine-Hzp-1ua8DVE-unsplash-1-2048x1367.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.55, ...
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+WARNING: Could not save SSL session data for socket 4
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:21:43--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/devon-divine-Hzp-1ua8DVE-unsplash-1-2048x1367.jpg
+Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299594 (293K) [image/jpeg]
+Saving to: ‘devon-divine-Hzp-1ua8DVE-unsplash-1-2048x1367.jpg’
+
+     0K .......... .......... .......... .......... .......... 17% 5.36M 0s
+    50K .......... .......... .......... .......... .......... 34% 1.78M 0s
+   100K .......... .......... .......... .......... .......... 51% 1.10M 0s
+   150K .......... .......... .......... .......... .......... 68% 1.39M 0s
+   200K .......... .......... .......... .......... .......... 85% 1.09M 0s
+   250K .......... .......... .......... .......... ..        100%  775K=0.2s
+
+2025-09-17 23:21:54 (1.32 MB/s) - ‘devon-divine-Hzp-1ua8DVE-unsplash-1-2048x1367.jpg’ saved [299594/299594]
+

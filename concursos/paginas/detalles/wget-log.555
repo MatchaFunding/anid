@@ -1,0 +1,27 @@
+--2025-09-17 23:09:36--  https://anid.cl/concursos/concurso-de-equipamiento-cientifico-y-tecnologico-mediano-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:17:30--  (try: 2)  https://anid.cl/concursos/concurso-de-equipamiento-cientifico-y-tecnologico-mediano-2025
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-de-equipamiento-cientifico-y-tecnologico-mediano-2025/ [following]
+--2025-09-17 23:24:40--  https://anid.cl/concursos/concurso-de-equipamiento-cientifico-y-tecnologico-mediano-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-de-equipamiento-cientifico-y-tecnologico-mediano-2025’
+
+     0K .......... .......... .......... .......... ..........  699 
+    50K .......... .......... .......... .......... ..........  640 
+   100K .......... .......... .......... .......... .......... 1.18K
+   150K .......... .......... .......... .......... .......... 2.50K
+   200K .......... .......... .......... .......... ..........  729K
+   250K .......... .......... .......... .......... .......... 9.39M
+   300K .......... .                                           4.22K=3m39s
+
+2025-09-17 23:31:18 (1.43 KB/s) - ‘concurso-de-equipamiento-cientifico-y-tecnologico-mediano-2025’ saved [319342]
+

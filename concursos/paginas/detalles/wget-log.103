@@ -1,0 +1,13 @@
+--2025-09-17 23:16:25--  https://anid.cl/wp-content/uploads/2022/07/dominik-vanyi-Mk2ls9UBO2E-unsplash-768x512.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.71, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96273 (94K) [image/jpeg]
+Saving to: ‘dominik-vanyi-Mk2ls9UBO2E-unsplash-768x512.jpg’
+
+     0K .......... .......... .......... .......... .......... 53% 1.14M 0s
+    50K .......... .......... .......... .......... ....      100%  559K=0.1s
+
+2025-09-17 23:31:23 (773 KB/s) - ‘dominik-vanyi-Mk2ls9UBO2E-unsplash-768x512.jpg’ saved [96273/96273]
+

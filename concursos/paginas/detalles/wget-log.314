@@ -1,0 +1,27 @@
+--2025-09-17 23:09:40--  https://anid.cl/concursos/concurso-fondo-gemini-anid-2025
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:17:14--  (try: 2)  https://anid.cl/concursos/concurso-fondo-gemini-anid-2025
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-fondo-gemini-anid-2025/ [following]
+--2025-09-17 23:19:12--  https://anid.cl/concursos/concurso-fondo-gemini-anid-2025/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-fondo-gemini-anid-2025’
+
+     0K .......... .......... .......... .......... ..........  709 
+    50K .......... .......... .......... .......... ..........  145K
+   100K .......... .......... .......... .......... .......... 9.14K
+   150K .......... .......... .......... .......... .......... 6.65K
+   200K .......... .......... .......... .......... ..........  775K
+   250K .......... .......... .......... .......... .......... 1.74M
+   300K .                                                      2.57T=86s
+
+2025-09-17 23:21:52 (3.52 KB/s) - ‘concurso-fondo-gemini-anid-2025’ saved [308613]
+

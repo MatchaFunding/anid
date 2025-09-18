@@ -1,0 +1,27 @@
+--2025-09-17 23:09:36--  https://anid.cl/concursos/concurso-anillos-de-investigacion-tematicos-2024-en-litio-y-salares
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.88, ...
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
+Retrying.
+
+--2025-09-17 23:16:44--  (try: 2)  https://anid.cl/concursos/concurso-anillos-de-investigacion-tematicos-2024-en-litio-y-salares
+Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anid.cl/concursos/concurso-anillos-de-investigacion-tematicos-2024-en-litio-y-salares/ [following]
+--2025-09-17 23:17:29--  https://anid.cl/concursos/concurso-anillos-de-investigacion-tematicos-2024-en-litio-y-salares/
+Reusing existing connection to anid.cl:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘concurso-anillos-de-investigacion-tematicos-2024-en-litio-y-salares’
+
+     0K .......... .......... .......... .......... ..........  186K
+    50K .......... .......... .......... .......... ..........  189K
+   100K .......... .......... .......... .......... .......... 64.2M
+   150K .......... .......... .......... .......... .......... 1.37M
+   200K .......... .......... .......... .......... ..........  574 
+   250K .......... .......... .......... .......... .......... 12.4K
+   300K .                                                      2.81T=94s
+
+2025-09-17 23:21:39 (3.21 KB/s) - ‘concurso-anillos-de-investigacion-tematicos-2024-en-litio-y-salares’ saved [308747]
+
