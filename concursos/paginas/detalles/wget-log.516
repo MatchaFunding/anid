@@ -1,7 +1,0 @@
---2025-09-17 23:12:10--  https://anid.cl/wp-content/uploads/2022/06/Laboratorio_usach_11-scaled.jpg
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.77, 3.162.199.88, ...
-Connecting to anid.cl (anid.cl)|3.162.199.71|:443... failed: No route to host.
-Connecting to anid.cl (anid.cl)|3.162.199.77|:443... failed: No route to host.
-Connecting to anid.cl (anid.cl)|3.162.199.88|:443... failed: No route to host.
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... failed: No route to host.

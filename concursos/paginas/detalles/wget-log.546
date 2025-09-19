@@ -1,16 +1,0 @@
---2025-09-17 23:09:46--  https://anid.cl/concursos/convocatoria-fondo-quimal-2023
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.71, 3.162.199.55, ...
-Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/convocatoria-fondo-quimal-2023/ [following]
---2025-09-17 23:10:42--  https://anid.cl/concursos/convocatoria-fondo-quimal-2023/
-Reusing existing connection to anid.cl:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘convocatoria-fondo-quimal-2023’
-
-convocatoria-fondo-     [          <=>       ] 289.11K   730 B/s    in 6m 46s  
-
-2025-09-17 23:21:56 (730 B/s) - ‘convocatoria-fondo-quimal-2023’ saved [296049]
-

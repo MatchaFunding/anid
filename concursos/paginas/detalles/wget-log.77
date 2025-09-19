@@ -1,20 +1,0 @@
---2025-09-17 23:09:36--  https://anid.cl/concursos/concurso-de-apoyo-a-centros-de-excelencia-en-investigacion-en-areas-prioritarias-fondap-2019
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.88, 3.162.199.77, ...
-Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-de-apoyo-a-centros-de-excelencia-en-investigacion-en-areas-prioritarias-fondap-2019/ [following]
---2025-09-17 23:10:33--  https://anid.cl/concursos/concurso-de-apoyo-a-centros-de-excelencia-en-investigacion-en-areas-prioritarias-fondap-2019/
-Reusing existing connection to anid.cl:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘concurso-de-apoyo-a-centros-de-excelencia-en-investigacion-en-areas-prioritarias-fondap-2019’
-
-    concurso-de-apo     [      <=>           ]  71.69K   179 B/s               concurso-de-apoyo-a     [       <=>          ] 119.93K   300 B/s    in 6m 50s  
-
-2025-09-17 23:25:05 (300 B/s) - Read error at byte 122810 (Error in the pull function.).Retrying.
-
---2025-09-17 23:25:45--  (try: 2)  https://anid.cl/concursos/concurso-de-apoyo-a-centros-de-excelencia-en-investigacion-en-areas-prioritarias-fondap-2019/
-Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
-GnuTLS: The TLS connection was non-properly terminated.
-Unable to establish SSL connection.

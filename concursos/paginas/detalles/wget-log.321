@@ -1,9 +1,0 @@
---2025-09-17 23:09:38--  https://anid.cl/concursos/concurso-de-fortalecimiento-al-desarrollo-cientifico-tecnologico-de-centros-regionales-2023
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.77, 3.162.199.55, ...
-Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
-HTTP request sent, awaiting response... Read error (The request is invalid.) in headers.
-Retrying.
-
---2025-09-17 23:16:31--  (try: 2)  https://anid.cl/concursos/concurso-de-fortalecimiento-al-desarrollo-cientifico-tecnologico-de-centros-regionales-2023
-Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.

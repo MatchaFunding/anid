@@ -1,9 +1,0 @@
---2025-09-17 23:10:05--  https://anid.cl/wp-content/uploads/2022/04/guillermo-ferla-lLExhYl-cXQ-unsplash-1536x1032.jpg
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.77, 3.162.199.71, 3.162.199.55, ...
-Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.
-HTTP request sent, awaiting response... No data received.
-Retrying.
-
---2025-09-17 23:20:15--  (try: 2)  https://anid.cl/wp-content/uploads/2022/04/guillermo-ferla-lLExhYl-cXQ-unsplash-1536x1032.jpg
-Connecting to anid.cl (anid.cl)|3.162.199.77|:443... connected.

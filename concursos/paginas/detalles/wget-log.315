@@ -1,8 +1,0 @@
---2025-09-17 23:09:37--  https://anid.cl/concursos/concurso-de-institutos-milenio-en-ciencias-naturales-y-exactas-2021
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.88, ...
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
-WARNING: Could not save SSL session data for socket 3
-Failed writing HTTP request: Error in the push function..
-Retrying.
-

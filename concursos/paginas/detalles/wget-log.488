@@ -1,31 +1,0 @@
---2025-09-17 23:09:35--  https://anid.cl/concursos/concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.77, ...
-Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024/ [following]
---2025-09-17 23:10:42--  https://anid.cl/concursos/concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024/
-Reusing existing connection to anid.cl:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024’
-
-                    concurso-acceso-a-emba     [ <=>                                                                                    ]  13.97K  12.8KB/s                                  concurso-acceso-a-embar     [  <=>                                                                                   ]  14.09K  56.1 B/s               concurso-acceso-a-embarcaciones-para-inves     [   <=>                                                                                  ]  83.66K   333 B/s    in 4m 17s  
-
-2025-09-17 23:21:47 (333 B/s) - Read error at byte 85668 (Error in the pull function.).Retrying.
-
---2025-09-17 23:21:48--  (try: 2)  https://anid.cl/concursos/concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024/
-Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024’
-
-     0K .......... .......... .......... .......... ..........  598 
-    50K .......... .......... .......... .......... ..........  829 
-   100K .......... .......... .......... .......... ..........  416 
-   150K .......... .......... .......... .......... ..........  493 
-   200K .......... .......... .......... .......... ..........  916 
-   250K .......... .......... ..........                        726 =7m53s
-
-2025-09-17 23:31:05 (607 B/s) - ‘concurso-acceso-a-embarcaciones-para-investigacion-cientifica-2024’ saved [286890]
-

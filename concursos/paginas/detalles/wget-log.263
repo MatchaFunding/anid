@@ -1,13 +1,0 @@
---2025-09-17 23:09:42--  https://anid.cl/concursos/concurso-ingenieria-2030-etapa-3
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.88, 3.162.199.55, 3.162.199.71, ...
-Connecting to anid.cl (anid.cl)|3.162.199.88|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-ingenieria-2030-etapa-3/ [following]
---2025-09-17 23:10:39--  https://anid.cl/concursos/concurso-ingenieria-2030-etapa-3/
-Reusing existing connection to anid.cl:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘concurso-ingenieria-2030-etapa-3’
-
- concurso-ingenieri     [         <=>        ]  79.34K  --.-KB/s               concurso-ingenieria     [          <=>       ]  79.34K  --.-KB/s               oncurso-ingenieria-     [           <=>      ]  79.34K  --.-KB/s               ncurso-ingenieria-2     [            <=>     ]  79.34K  --.-KB/s               curso-ingenieria-20     [             <=>    ]  79.34K  --.-KB/s               urso-ingenieria-203     [              <=>   ]  79.34K  --.-KB/s               rso-ingenieria-2030     [               <=>  ]  79.34K  --.-KB/s               so-ingenieria-2030-     [                <=> ]  79.34K  --.-KB/s               o-ingenieria-2030-e     [                 <=>]  79.34K  --.-KB/s               -ingenieria-2030-et     [                <=> ]  79.34K  --.-KB/s               ingenieria-2030-eta     [               <=>  ]  79.34K  --.-KB/s               ngenieria-2030-etap     [              <=>   ]  79.34K  --.-KB/s               

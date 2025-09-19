@@ -1,16 +1,0 @@
---2025-09-17 23:09:42--  https://anid.cl/concursos/concurso-nacional-de-asignacion-de-tiempo-de-buque-oceanografico-ags-61-cabo-de-hornos-2020
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.88, ...
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-nacional-de-asignacion-de-tiempo-de-buque-oceanografico-ags-61-cabo-de-hornos-2020/ [following]
---2025-09-17 23:10:58--  https://anid.cl/concursos/concurso-nacional-de-asignacion-de-tiempo-de-buque-oceanografico-ags-61-cabo-de-hornos-2020/
-Reusing existing connection to anid.cl:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘concurso-nacional-de-asignacion-de-tiempo-de-buque-oceanografico-ags-61-cabo-de-hornos-2020’
-
-      concurso-naci     [    <=>             ] 159.99K   598 B/s                    concurso-nacio     [     <=>            ] 175.86K   656 B/s                   concurso-nacion     [      <=>           ] 309.32K  1.12KB/s               concurso-nacional-d     [       <=>          ] 309.32K  1.12KB/s    in 4m 35s  
-
-2025-09-17 23:21:47 (1.12 KB/s) - ‘concurso-nacional-de-asignacion-de-tiempo-de-buque-oceanografico-ags-61-cabo-de-hornos-2020’ saved [316748]
-

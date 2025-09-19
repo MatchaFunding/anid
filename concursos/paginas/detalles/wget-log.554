@@ -1,8 +1,0 @@
---2025-09-17 23:09:44--  https://anid.cl/concursos/concurso-propuestas-observacion-chilenas-apex-semestre-2022-b
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.71, 3.162.199.77, 3.162.199.88, ...
-Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-propuestas-observacion-chilenas-apex-semestre-2022-b/ [following]
---2025-09-17 23:21:56--  https://anid.cl/concursos/concurso-propuestas-observacion-chilenas-apex-semestre-2022-b/
-Connecting to anid.cl (anid.cl)|3.162.199.71|:443... connected.

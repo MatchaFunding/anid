@@ -1,13 +1,0 @@
---2025-09-17 23:09:37--  https://anid.cl/concursos/concurso-de-investigacion-tecnologica-idea-2021
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.88, ...
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-de-investigacion-tecnologica-idea-2021/ [following]
---2025-09-17 23:10:39--  https://anid.cl/concursos/concurso-de-investigacion-tecnologica-idea-2021/
-Reusing existing connection to anid.cl:443.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘concurso-de-investigacion-tecnologica-idea-2021’
-
-        concurso-de     [  <=>               ]  29.97K  87.2 B/s                      concurso-de-     [   <=>              ]  45.97K   131 B/s                     concurso-de-i     [    <=>             ]  47.34K   118 B/s                    concurso-de-in     [     <=>            ]  47.46K   107 B/s                   concurso-de-inv     [      <=>           ]  47.73K   107 B/s                  concurso-de-inve     [       <=>          ] 126.89K   286 B/s                 concurso-de-inves     [        <=>         ] 279.96K   630 B/s               

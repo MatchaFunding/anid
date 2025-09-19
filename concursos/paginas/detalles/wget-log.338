@@ -1,9 +1,0 @@
---2025-09-17 23:09:55--  https://anid.cl/wp-content/uploads/2020/10/Buque-300x169.png
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.77, 3.162.199.71, ...
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 70241 (69K) [image/png]
-Saving to: ‘Buque-300x169.png’
-
-     0K .......... .......... .......... .

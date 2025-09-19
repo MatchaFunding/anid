@@ -1,8 +1,0 @@
---2025-09-17 23:09:40--  https://anid.cl/concursos/concurso-idea-id-tecnologias-avanzadas-2023
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving anid.cl (anid.cl)... 3.162.199.55, 3.162.199.88, 3.162.199.77, ...
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://anid.cl/concursos/concurso-idea-id-tecnologias-avanzadas-2023/ [following]
---2025-09-17 23:15:50--  https://anid.cl/concursos/concurso-idea-id-tecnologias-avanzadas-2023/
-Connecting to anid.cl (anid.cl)|3.162.199.55|:443... connected.
