@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import numpy as np
 import re
+import os
 
 # Concurso usado de referencia para hacer Web-Scraping
 # https://anid.cl/concursos/concurso-ines-genero-2025-renovacion-competitiva/
@@ -29,7 +30,9 @@ def formatear_fecha(fecha):
     dia = encontrar_dia(fecha)
     return f"{ano}-{mes}-{dia}"
 
-html = open("concurso-ines-genero-2025-renovacion-competitiva.html", 'r', encoding='utf-8')
+# archivo = "concurso-ines-genero-2025-renovacion-competitiva.html"
+archivo = "convocatoria-fondo-gemini-2023.html"
+html = open(archivo, 'r', encoding='utf-8')
 soup  = BeautifulSoup(html, "html.parser")
 
 titulo = soup.find('title').text
@@ -55,7 +58,49 @@ publico_objetivo = ''.join(publico_objetivo.splitlines())
 
 presentacion = soup.body.find('div', attrs={'id':'jet-tabs-content-1911'}).text
 
-file = open("concurso-ines-genero-2025-renovacion-competitiva.html", 'r', encoding='utf-8').read()
+duracion = re.findall("Duración máxima: [0-9]*", presentacion)[0]
+meses_duracion = re.findall("[0-9]{1}[0-9]*", duracion)[0]
+
+bases_legales = []
+preguntas_frecuentes = []
+resultados = []
+manuales = []
+formularios = []
+certificados = []
+otros = []
+
+enlaces = soup.find_all('a', href=True)
+
+lista_pdfs = []
+
+for e in enlaces:
+    enlace = e['href']
+    if ".pdf" in enlace or ".xlsx" in enlace or ".docx" in enlace:
+        if "pdf" in enlace:
+            lista_pdfs.append(enlace)
+        if "base" in enlace.lower():
+            bases_legales.append(enlace)
+            continue
+        if "frecuente" in enlace.lower():
+            preguntas_frecuentes.append(enlace)
+            continue
+        if "rex" in enlace.lower() or "resex" in enlace.lower():
+            resultados.append(enlace)
+            continue
+        if "manual" in enlace.lower():
+            manuales.append(enlace)
+            continue
+        if "formulario" in enlace.lower():
+            formularios.append(enlace)
+            continue
+        if "certificado" in enlace.lower():
+            certificados.append(enlace)
+            continue
+        else:
+            otros.append(enlace)
+            continue
+
+file = open(archivo, 'r', encoding='utf-8').read()
 
 montos = re.findall("[$][0-9][0-9.]*", file)
 
@@ -69,13 +114,29 @@ montos = np.array(montos)
 monto_minimo = montos.min()
 monto_maximo = montos.max()
 
-print(f"Titulo: {titulo}")
-print(f"Descripcion: {descripcion}")
-print(f"Inicio: {inicio}")
-print(f"Cierre: {cierre}")
-print(f"Fallo: {fallo}")
-print(f"Tipo de beneficio: {tipo_de_beneficio}")
-print(f"Monto minimo: {monto_minimo}")
-print(f"Monto maximo: {monto_maximo}")
-print(f"Publico objetivo: {publico_objetivo}")
-print(f"Presentacion: {presentacion}")
+enlace_detalle = f"https://anid.cl/concursos/{archivo.strip(".html")}/"
+
+print(f"_Enlace_: {enlace_detalle}")
+print(f"_Titulo_: {titulo}")
+print(f"_Descripcion_: {descripcion}")
+print(f"_Inicio_: {inicio}")
+print(f"_Cierre_: {cierre}")
+print(f"_Fallo_: {fallo}")
+print(f"_Duracion_: {meses_duracion}")
+print(f"_Tipo beneficio_: {tipo_de_beneficio}")
+print(f"_Monto minimo_: {monto_minimo}")
+print(f"_Monto maximo_: {monto_maximo}")
+print(f"_Publico objetivo_: {publico_objetivo}")
+print(f"_Presentacion_: {presentacion}")
+
+for base in bases_legales:
+    print(f"_Bases legales_: {base}")
+
+for pregunta in preguntas_frecuentes:
+    print(f"_FAQs_: {pregunta}")
+
+for resultado in resultados:
+    print(f"_Resultado_: {resultado}")
+
+for otro in otros:
+    print(f"_Otro_: {otro}")
